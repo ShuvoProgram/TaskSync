@@ -19,11 +19,11 @@ export const Navbar = () => {
           </Link>
 
           <Link href="/sign-up" className={buttonVariants({ size: "sm" })}>
-            Get Taskify for free
+            Get TaskSync for free
           </Link>
 
           <Link
-            href="https://github.com/sanidhyy/trello-clone"
+            href="https://github.com/ShuvoProgram/TaskSync"
             target="_blank"
             rel="noreferrer noopener"
             className={buttonVariants({ size: "sm" })}
