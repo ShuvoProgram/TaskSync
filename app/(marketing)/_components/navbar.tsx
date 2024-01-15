@@ -10,7 +10,7 @@ export const Navbar = () => {
       <div className="md:max-w-screen-2xl mx-auto flex items-center w-full justify-between">
         <Logo />
 
-        <div className="space-x-4 md:w-auto flex items-center justify-between w-full">
+        <div className=" md:space-x-4 md:w-auto flex items-center justify-between w-[65%]">
           <Link
             href="/sign-in"
             className={buttonVariants({ size: "sm", variant: "outline" })}
@@ -19,7 +19,7 @@ export const Navbar = () => {
           </Link>
 
           <Link href="/sign-up" className={buttonVariants({ size: "sm" })}>
-            Get TaskSync for free
+            Sign up for free
           </Link>
 
           <Link

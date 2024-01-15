@@ -52,7 +52,7 @@ const MarketingPage = () => {
         href="/sign-up"
         className={cn(buttonVariants({ size: "lg" }), "mt-6")}
       >
-        Get TaskSync for free
+        Sign up for free
       </Link>
     </div>
   );
