@@ -2,7 +2,7 @@
 
 # TaskSync - Collaborate, manage projects and reach new productivity peaks.
 
-![TaskSync - Collaborate, manage projects and reach new productivity peaks.](/.github/images/TaskSync-Preview.png "Taskify - Collaborate, manage projects and reach new productivity peaks.")
+![TaskSync - Collaborate, manage projects and reach new productivity peaks.](/.github/images/TaskSync-Preview.png "TaskSync - Collaborate, manage projects and reach new productivity peaks.")
 
 <!-- Table of Contents -->
 <details>
@@ -35,7 +35,7 @@
 Here is the folder structure of this app.
 
 ```bash
-trello-clone/
+TaskSync/
   |- actions/
     |-- copy-card/
     |-- copy-list/
@@ -113,3 +113,5 @@ trello-clone/
 ## :wrench: Stats
 
 [![Stats for TaskSync](/.github/images/stats.svg "Stats for TaskSync")](https://pagespeed-insights-svg.glitch.me/?url=https://task-sync-iota.vercel.app/ "Stats for TaskSync")
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
